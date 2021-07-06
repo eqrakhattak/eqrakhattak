@@ -14,7 +14,7 @@
 <br>
 
 
-My name is Eqra Khattak I live in Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I'm a supporter of BlackLivesMatter, LGBTQIA+, people of color, women in tech, people with disabilities, and other marginalized groups.
+My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I'm a supporter of BlackLivesMatter, LGBTQIA+, people of color, women in tech, people with disabilities, and other marginalized groups.
 
 <!-- <details>
   <summary>Quotes about me that people who I have worked with have said about me...</summary>
