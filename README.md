@@ -14,7 +14,7 @@
 <br>
 
 
-My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I'm a supporter of BlackLivesMatter, LGBTQIA+, people of color, women in tech, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
+My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Clubs Lead](https://developers.google.com/community/dsc/leads) at my campus for batch 2020-21. Now I'm a GDSC Mentor. I'm also a part of GDG Kolachi community. I'm a supporter of Women In Tech, BlackLivesMatter, LGBTQIA+, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
 
 <!-- <details>
   <summary>Quotes about me that people who I have worked with have said about me...</summary>
@@ -30,10 +30,10 @@ My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover,
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🎓  I study Software Engineering
-- 🔭  I’m currently working on a Covid Tracker website
+- 🔭  I’m currently working at SyNet Technologies as a Frontend Web Developer.
 - ⚙️  I code in Dart
 - 🌱  Currently learning more about Flutter
-- 📈  I'm a [Google Developer Student Clubs Lead](https://developers.google.com/community/dsc/leads) at my campus
+- 📈  I'm an event manager at GDG Kolachi.
 - 🗣   Usually, I anchor most of the events at campus
 - 🎨  I make art
 - ☕️  Coffee and coding goes side by side for me
