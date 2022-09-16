@@ -29,8 +29,7 @@ My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover,
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🎓  I study Software Engineering
-- 🔭  I’m currently working at SyNet Technologies as a Frontend Web Developer.
+- 🎓  I study Software Engineering <!-- - 🔭  I’m currently working at SyNet Technologies as a Frontend Web Developer. -->
 - ⚙️  I code in Dart
 - 🌱  Currently learning more about Flutter
 - 📈  I'm Core Team Member at GDG Kolachi.
