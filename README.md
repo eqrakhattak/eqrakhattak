@@ -14,7 +14,7 @@
 <br>
 
 
-My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Club](https://gdsc.community.dev/comsats-university-attock-campus/) Lead at my campus for batch 2020-21. Now I'm a GDSC Mentor. I'm also a part of [GDG Kolachi](https://gdg.community.dev/gdg-kolachi/) community. I'm a supporter of Women In Tech, Black Lives Matter, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
+My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Club](https://gdsc.community.dev/comsats-university-attock-campus/) Lead at my campus for batch 2020-21. Now I'm a GDSC Mentor. I've also been a part of [GDG Kolachi](https://gdg.community.dev/gdg-kolachi/). I'm a supporter of Women In Tech, Black Lives Matter, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
 
 <!-- <details>
   <summary>Quotes about me that people who I have worked with have said about me...</summary>
@@ -29,17 +29,18 @@ My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover,
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🎓  I study Software Engineering <!-- - 🔭  I’m currently working at SyNet Technologies as a Frontend Web Developer. -->
+- 🎓  I studied Software Engineering 
+- 🔭  I’m currently working at Jobxee, helping apps grow.
 - ⚙️  I code in Dart
-- 🌱  Currently learning more about Flutter
-- 📈  I'm Core Team Member at GDG Kolachi.
-- 🗣   Usually, I anchor most of the events at campus
+- 🌱  Currently Flutter-ing
+<!-- - 📈  I'm Core Team Member at GDG Kolachi. -->
+<!-- - 🗣   Usually, I anchor most of the events at campus -->
 - 🎨  I make art
 - ☕️  Coffee and coding goes side by side for me
 - 🐶  Dog named Maximus
 - ❤️  In love with Open Source
 - ⚡  Fun fact: Khushal Khan Khattak is my ancestor
-- 💬  Reach me at icynerd007@gmail.com
+<!-- - 💬  Reach me at icynerd007@gmail.com -->
 - 🏳️‍🌈  Pronouns: She / Her / They
 - 📝  [Resume](https://drive.google.com/file/d/16kpRXj9A_oSnLPgQOk1Pop5NQxL-H3a1/view?usp=sharing)
 
