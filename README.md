@@ -30,7 +30,7 @@ My name is Eqra Khattak. I live in Attock, Pakistan. I am an artist, book lover,
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🎓  I studied Software Engineering 
-- 🔭  I work at Jobxee, helping apps grow.
+- 🔭  I work at [Jobxee](https://www.jobxee.com), helping apps grow
 - ⚙️  I code in Dart
 - 🌱  Currently Flutter-ing <!-- - 📈  I'm Core Team Member at GDG Kolachi. --><!-- - 🗣   Usually, I anchor most of the events at campus -->
 - 🎨  I make art
