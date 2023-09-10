@@ -42,3 +42,8 @@ My name is Eqra Khattak. I am an artist, book lover, seasons binge watcher and a
 - 📝  [Resume](https://drive.google.com/file/d/16kpRXj9A_oSnLPgQOk1Pop5NQxL-H3a1/view?usp=sharing)
 
 🥂 Cheers!
+<!--
+Listen to my playlist <3
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Lg3GfMqCQGbCGAv0oQnpW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+-->
