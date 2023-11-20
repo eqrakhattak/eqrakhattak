@@ -2,8 +2,7 @@
   <h1 align="center"> Sup Nerds.. I'm Eqra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p align="center"> A Flutter Developer </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/eqrakhattak/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
-    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/eqrakhattak/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/eqrakhattak7"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://dev.to/eqrakhattak"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/eqrakhattak"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
@@ -14,7 +13,7 @@
 <br>
 
 
-My name is Eqra Khattak. I am an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Club](https://gdsc.community.dev/comsats-university-attock-campus/) Lead at my campus for batch 2020-21. Now I'm a GDSC Mentor. I've also been a part of [GDG Kolachi](https://gdg.community.dev/gdg-kolachi/). I'm a supporter of Women In Tech, Black Lives Matter, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
+My name is Eqra Khattak. I am a programmer, an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Club](https://gdsc.community.dev/comsats-university-attock-campus/) Lead at my campus for batch 2020-21 and a GDSC Mentor after that. I've also been a part of [GDG Kolachi](https://gdg.community.dev/gdg-kolachi/). I'm a supporter of Women In Tech, Black Lives Matter, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
 
 <!-- <details>
   <summary>Quotes about me that people who I have worked with have said about me...</summary>
@@ -36,10 +35,9 @@ My name is Eqra Khattak. I am an artist, book lover, seasons binge watcher and a
 - 🎨  I make art
 - ☕️  Coffee and coding goes side by side for me
 - 🐶  Dog named Maximus
-- ❤️  In love with Open Source
-- ⚡  Fun fact: Khushal Khan Khattak is my ancestor<!-- - 💬  Reach me at icynerd007@gmail.com -->
+- ❤️  In love with Open Source<!-- - ⚡  Fun fact: Khushal Khan Khattak is my ancestor - 💬  Reach me at icynerd007@gmail.com -->
 - 🏳️‍🌈  Pronouns: She / Her / They
-- 📝  [Resume](https://drive.google.com/file/d/16kpRXj9A_oSnLPgQOk1Pop5NQxL-H3a1/view?usp=sharing)
+- 📝  My [CV](https://www.canva.com/design/DAF0ugbXv7w/Ldd_faYdB6xy2Sl3jc88Cw/view?utm_content=DAF0ugbXv7w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 🥂 Cheers!
 <!--
