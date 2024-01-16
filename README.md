@@ -29,7 +29,7 @@ My name is Eqra Khattak. I am a programmer, an artist, book lover, seasons binge
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🎓  I studied Software Engineering 
-- 🔭  I work at [Jobxee](https://www.jobxee.com), helping apps grow
+- 🔭  I work at [Techtronix Corp.](https://www.techtronixcorp.com), developing apps
 - ⚙️  I code in Dart
 - 🌱  Currently Flutter-ing <!-- - 📈  I'm Core Team Member at GDG Kolachi. --><!-- - 🗣   Usually, I anchor most of the events at campus -->
 - 🎨  I make art
